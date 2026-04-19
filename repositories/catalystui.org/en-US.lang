@@ -24,9 +24,9 @@ index_cta_title=Uncovering the truth behind computational experience.
 index_cta_subtitle=Let''s get started.
 
 aria_navigate_menu=Toggles the navigation menu.
-aria_navigate_home=Navigate to the homepage.
-aria_navigate_model=Navigate to the Model section of the site.
-aria_navigate_specification=Navigate to the Specification section of the site.
-aria_navigate_implementations=Navigate to the Implementations section of the site.
+aria_navigate_home=Navigates to the homepage.
+aria_navigate_model=Navigates to the Model section of the site.
+aria_navigate_specification=Navigates to the Specification section of the site.
+aria_navigate_implementations=Navigates to the Implementations section of the site.
 aria_navigate_discord=Navigates to discord.com using the CatalystUI server invite code.
 aria_navigate_github=Navigates to github.com using the CatalystUI organization URL.
