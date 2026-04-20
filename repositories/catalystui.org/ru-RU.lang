@@ -1,0 +1,35 @@
+# Сгенерировано ChatGPT. Требует проверки переводчиком-человеком!
+# Пожалуйста, удалите эти строки в PR, чтобы указать, что перевод был проверен.
+
+favicon=Favicon CatalystUI.
+logo=Логотип CatalystUI.
+copyright=© 2026 CatalystUI LLC — Все права защищены.
+
+model=Модель
+specification=Спецификация
+implementations=Реализации
+
+trust=Доверие
+clarity=Ясность
+design=Проектирование
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI — это универсальная кроссплатформенная модель, определяющая, как люди взаимодействуют с компьютерами, преобразуя данные в интуитивно понятный опыт и делая возможными быстрые, гибкие, высокопроизводительные приложения.
+index_metadata_keywords=catalyst,ui,framework,model,specification,implementation,user,interface,interaction,experience,design,development,web,desktop,mobile,universal,cross-platform
+index_splash_title=Универсальный переводчик между компьютерами и людьми.
+index_vision_title=Наше видение
+index_vision_subtitle=Создать универсальную модель, определяющую взаимосвязь между людьми и информационными системами и закладывающую основу для построения надёжных технологий.
+index_mission_title=Наша миссия
+index_mission_subtitle=Определить и воплотить единую основу взаимодействия, позволяя разработчикам создавать интуитивные, высокопроизводительные системы, основанные на естественном потоке информации.
+index_values_title=Наши ценности
+index_values_subtitle=Стремление раскрывать принципы, которые уменьшают сложность, сохраняют смысл и направляют создаваемые нами системы.
+index_cta_title=Раскрывая истину, стоящую за вычислительным опытом.
+index_cta_subtitle=Давайте начнём.
+
+aria_navigate_menu=Переключает меню навигации.
+aria_navigate_home=Переходит на главную страницу.
+aria_navigate_model=Переходит в раздел «Модель» сайта.
+aria_navigate_specification=Переходит в раздел «Спецификация» сайта.
+aria_navigate_implementations=Переходит в раздел «Реализации» сайта.
+aria_navigate_discord=Переходит на discord.com, используя код приглашения на сервер CatalystUI.
+aria_navigate_github=Переходит на github.com, используя URL организации CatalystUI.
