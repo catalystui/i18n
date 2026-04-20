@@ -1,0 +1,35 @@
+# Esta tradução foi gerada pelo ChatGPT e deve ser revisada por um tradutor humano.
+# Remova estas linhas em um pull request após a tradução ter sido verificada.
+
+favicon=O favicon do CatalystUI.
+logo=O logotipo do CatalystUI.
+copyright=© 2026 CatalystUI LLC — Todos os direitos reservados.
+
+model=Modelo
+specification=Especificação
+implementations=Implementações
+
+trust=Confiança
+clarity=Clareza
+design=Design
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI é um modelo universal e multiplataforma que define como as pessoas interagem com computadores ao transformar dados em experiências intuitivas, possibilitando aplicações rápidas, flexíveis e de alto desempenho.
+index_metadata_keywords=catalyst,ui,framework,modelo,especificação,implementação,usuário,interface,interação,experiência,design,desenvolvimento,web,desktop,móvel,universal,multiplataforma
+index_splash_title=O tradutor universal entre computadores e pessoas.
+index_vision_title=Nossa Visão
+index_vision_subtitle=Estabelecer um modelo universal que defina a relação entre pessoas e sistemas de informação, fornecendo uma base para construir tecnologia confiável.
+index_mission_title=Nossa Missão
+index_mission_subtitle=Definir e concretizar uma base unificada para a interação, permitindo que desenvolvedores construam sistemas intuitivos e de alto desempenho fundamentados no fluxo natural da informação.
+index_values_title=Nossos Valores
+index_values_subtitle=Buscando descobrir princípios que reduzam a complexidade, preservem o significado e orientem os sistemas que criamos.
+index_cta_title=Revelando a verdade por trás da experiência computacional.
+index_cta_subtitle=Vamos começar.
+
+aria_navigate_menu=Alterna o menu de navegação.
+aria_navigate_home=Navega para a página inicial.
+aria_navigate_model=Navega para a seção Modelo do site.
+aria_navigate_specification=Navega para a seção Especificação do site.
+aria_navigate_implementations=Navega para a seção Implementações do site.
+aria_navigate_discord=Navega para discord.com usando o código de convite do servidor CatalystUI.
+aria_navigate_github=Navega para github.com usando a URL da organização CatalystUI.

@@ -1,0 +1,35 @@
+# Cette traduction a été générée par ChatGPT et doit être vérifiée par un traducteur humain.
+# Supprimez ces lignes dans une pull request après vérification de la traduction.
+
+favicon=Le favicon de CatalystUI.
+logo=Le logo de CatalystUI.
+copyright=© 2026 CatalystUI LLC — Tous droits réservés.
+
+model=Modèle
+specification=Spécification
+implementations=Implémentations
+
+trust=Confiance
+clarity=Clarté
+design=Conception
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI est un modèle universel multiplateforme qui définit la manière dont les personnes interagissent avec les ordinateurs en transformant les données en expériences intuitives, permettant ainsi des applications rapides, flexibles et hautes performances.
+index_metadata_keywords=catalyst,ui,cadre,modèle,spécification,implémentation,utilisateur,interface,interaction,expérience,conception,développement,web,bureau,mobile,universel,multiplateforme
+index_splash_title=Le traducteur universel entre les ordinateurs et les personnes.
+index_vision_title=Notre vision
+index_vision_subtitle=Établir un modèle universel qui définit la relation entre les personnes et les systèmes d’information, en fournissant une base pour construire une technologie fiable.
+index_mission_title=Notre mission
+index_mission_subtitle=Définir et concrétiser une base unifiée pour l’interaction, permettant aux développeurs de construire des systèmes intuitifs et hautes performances fondés sur le flux naturel de l’information.
+index_values_title=Nos valeurs
+index_values_subtitle=Chercher à découvrir des principes qui réduisent la complexité, préservent le sens et guident les systèmes que nous créons.
+index_cta_title=Révéler la vérité derrière l’expérience computationnelle.
+index_cta_subtitle=Commençons.
+
+aria_navigate_menu=Active ou désactive le menu de navigation.
+aria_navigate_home=Navigue vers la page d’accueil.
+aria_navigate_model=Navigue vers la section Modèle du site.
+aria_navigate_specification=Navigue vers la section Spécification du site.
+aria_navigate_implementations=Navigue vers la section Implémentations du site.
+aria_navigate_discord=Navigue vers discord.com en utilisant le code d’invitation du serveur CatalystUI.
+aria_navigate_github=Navigue vers github.com en utilisant l’URL de l’organisation CatalystUI.

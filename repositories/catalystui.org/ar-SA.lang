@@ -1,0 +1,35 @@
+# تم إنشاء هذه الترجمة بواسطة ChatGPT ويجب أن يراجعها مترجم بشري.
+# أزل هذه السطور في طلب السحب بعد التحقق من الترجمة.
+
+favicon=أيقونة CatalystUI المفضلة.
+logo=شعار CatalystUI.
+copyright=© 2026 CatalystUI LLC — جميع الحقوق محفوظة.
+
+model=النموذج
+specification=المواصفة
+implementations=التنفيذات
+
+trust=الثقة
+clarity=الوضوح
+design=التصميم
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI هو نموذج عالمي متعدد المنصات يعرّف كيفية تفاعل الأشخاص مع الحواسيب من خلال تحويل البيانات إلى تجارب بديهية، مما يتيح تطبيقات سريعة ومرنة وعالية الأداء.
+index_metadata_keywords=catalyst,ui,إطار,نموذج,مواصفة,تنفيذ,مستخدم,واجهة,تفاعل,تجربة,تصميم,تطوير,ويب,سطح المكتب,جوال,عالمي,متعدد المنصات
+index_splash_title=المترجم العالمي بين الحواسيب والبشر.
+index_vision_title=رؤيتنا
+index_vision_subtitle=إرساء نموذج عالمي يعرّف العلاقة بين الأشخاص وأنظمة المعلومات، ويوفر أساسًا لبناء تقنية موثوقة.
+index_mission_title=مهمتنا
+index_mission_subtitle=تعريف وتحقيق أساس موحّد للتفاعل، بما يمكّن المطورين من بناء أنظمة بديهية وعالية الأداء تستند إلى التدفق الطبيعي للمعلومات.
+index_values_title=قيمنا
+index_values_subtitle=نسعى إلى اكتشاف مبادئ تقلل التعقيد، وتحافظ على المعنى، وتوجّه الأنظمة التي ننشئها.
+index_cta_title=كشف الحقيقة وراء التجربة الحاسوبية.
+index_cta_subtitle=لنبدأ.
+
+aria_navigate_menu=يبدّل قائمة التنقل.
+aria_navigate_home=ينتقل إلى الصفحة الرئيسية.
+aria_navigate_model=ينتقل إلى قسم النموذج في الموقع.
+aria_navigate_specification=ينتقل إلى قسم المواصفة في الموقع.
+aria_navigate_implementations=ينتقل إلى قسم التنفيذات في الموقع.
+aria_navigate_discord=ينتقل إلى discord.com باستخدام رمز دعوة خادم CatalystUI.
+aria_navigate_github=ينتقل إلى github.com باستخدام رابط مؤسسة CatalystUI.

@@ -1,5 +1,5 @@
-# Generado por ChatGPT. Debe ser verificado por un traductor humano.
-# Elimina estas líneas en un PR para indicar que la traducción ha sido verificada.
+# Esta traducción fue generada por ChatGPT y debe ser revisada por un traductor humano.
+# Elimina estas líneas en una solicitud de extracción después de que la traducción haya sido verificada.
 
 favicon=El favicon de CatalystUI.
 logo=El logotipo de CatalystUI.
@@ -14,22 +14,22 @@ clarity=Claridad
 design=Diseño
 
 index_metadata_title=CatalystUI
-index_metadata_description=CatalystUI es un modelo universal y multiplataforma que define cómo las personas interactúan con las computadoras al transformar datos en experiencias intuitivas, lo que permite aplicaciones rápidas, flexibles y de alto rendimiento.
-index_metadata_keywords=catalyst,ui,framework,modelo,especificación,implementación,usuario,interfaz,interacción,experiencia,diseño,desarrollo,web,escritorio,móvil,universal,multiplataforma
-index_splash_title=El traductor universal entre las computadoras y las personas.
+index_metadata_description=CatalystUI es un modelo universal y multiplataforma que define cómo las personas interactúan con los ordenadores al transformar datos en experiencias intuitivas, lo que permite aplicaciones rápidas, flexibles y de alto rendimiento.
+index_metadata_keywords=catalyst,ui,marco,modelo,especificación,implementación,usuario,interfaz,interacción,experiencia,diseño,desarrollo,web,escritorio,móvil,universal,multiplataforma
+index_splash_title=El traductor universal entre ordenadores y personas.
 index_vision_title=Nuestra visión
-index_vision_subtitle=Establecer un modelo universal que defina la relación entre las personas y los sistemas de información, proporcionando una base para construir tecnología confiable.
+index_vision_subtitle=Establecer un modelo universal que defina la relación entre las personas y los sistemas de información, proporcionando una base para crear tecnología fiable.
 index_mission_title=Nuestra misión
-index_mission_subtitle=Definir y hacer realidad una base unificada para la interacción, permitiendo a los desarrolladores crear sistemas intuitivos y de alto rendimiento basados en el flujo natural de la información.
+index_mission_subtitle=Definir y hacer realidad una base unificada para la interacción, permitiendo a los desarrolladores crear sistemas intuitivos y de alto rendimiento, fundamentados en el flujo natural de la información.
 index_values_title=Nuestros valores
-index_values_subtitle=Buscar descubrir principios que reduzcan la complejidad, preserven el significado y guíen los sistemas que creamos.
+index_values_subtitle=Buscando descubrir principios que reduzcan la complejidad, preserven el significado y guíen los sistemas que creamos.
 index_cta_title=Descubriendo la verdad detrás de la experiencia computacional.
 index_cta_subtitle=Comencemos.
 
-aria_navigate_menu=Activa o desactiva el menú de navegación.
+aria_navigate_menu=Alterna el menú de navegación.
 aria_navigate_home=Navega a la página principal.
 aria_navigate_model=Navega a la sección Modelo del sitio.
 aria_navigate_specification=Navega a la sección Especificación del sitio.
 aria_navigate_implementations=Navega a la sección Implementaciones del sitio.
 aria_navigate_discord=Navega a discord.com usando el código de invitación del servidor de CatalystUI.
-aria_navigate_github=Navega a github.com usando la URL de la organización de CatalystUI.
+aria_navigate_github=Navega a github.com usando la URL de la organización CatalystUI.

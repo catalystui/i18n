@@ -1,0 +1,35 @@
+# この翻訳は ChatGPT によって生成されたものであり、人間の翻訳者による確認が必要です。
+# 翻訳の確認が完了したら、プルリクエストでこれらの行を削除してください。
+
+favicon=CatalystUI のファビコン。
+logo=CatalystUI のロゴ。
+copyright=© 2026 CatalystUI LLC — 無断転載を禁じます。
+
+model=モデル
+specification=仕様
+implementations=実装
+
+trust=信頼
+clarity=明確さ
+design=設計
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI は、データを直感的な体験へと変換することで、人々がコンピューターとどのように相互作用するかを定義する、汎用的なクロスプラットフォームモデルです。これにより、高速で柔軟かつ高性能なアプリケーションを実現できます。
+index_metadata_keywords=catalyst,ui,フレームワーク,モデル,仕様,実装,ユーザー,インターフェース,相互作用,体験,設計,開発,web,デスクトップ,モバイル,汎用,クロスプラットフォーム
+index_splash_title=コンピューターと人をつなぐ普遍的な翻訳者。
+index_vision_title=私たちのビジョン
+index_vision_subtitle=人々と情報システムの関係を定義する普遍的なモデルを確立し、信頼できる技術を構築するための基盤を提供すること。
+index_mission_title=私たちの使命
+index_mission_subtitle=相互作用のための統一された基盤を定義し実現することで、開発者が情報の自然な流れに根ざした直感的で高性能なシステムを構築できるようにすること。
+index_values_title=私たちの価値観
+index_values_subtitle=複雑さを減らし、意味を保ち、私たちが創るシステムを導く原則を明らかにすることを目指します。
+index_cta_title=計算体験の背後にある真実を明らかにする。
+index_cta_subtitle=始めましょう。
+
+aria_navigate_menu=ナビゲーションメニューを切り替えます。
+aria_navigate_home=ホームページに移動します。
+aria_navigate_model=サイトのモデルセクションに移動します。
+aria_navigate_specification=サイトの仕様セクションに移動します。
+aria_navigate_implementations=サイトの実装セクションに移動します。
+aria_navigate_discord=CatalystUI サーバーの招待コードを使用して discord.com に移動します。
+aria_navigate_github=CatalystUI 組織の URL を使用して github.com に移動します。
