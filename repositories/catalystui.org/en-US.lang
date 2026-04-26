@@ -30,3 +30,4 @@ aria_navigate_specification=Navigates to the Specification section of the site.
 aria_navigate_implementations=Navigates to the Implementations section of the site.
 aria_navigate_discord=Navigates to discord.com using the CatalystUI server invite code.
 aria_navigate_github=Navigates to github.com using the CatalystUI organization URL.
+aria_coming_soon=This feature is coming soon — check back later!
