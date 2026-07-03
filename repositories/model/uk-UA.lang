@@ -1,0 +1,11 @@
+# Цей переклад створено ChatGPT і має бути перевірений людиною-перекладачем.
+# Видаліть ці рядки в pull request після перевірки перекладу.
+
+model=Модель CatalystUI
+terminology=1. Термінологія
+summary=2. Підсумок
+reference=3. Довідник
+domains=4. Домени
+stack=5. Стек
+connectors=6. Конектори
+interactions=7. Взаємодії
