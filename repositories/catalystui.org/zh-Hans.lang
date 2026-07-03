@@ -1,0 +1,54 @@
+# 此翻译由 ChatGPT 生成，应该由人工译者审核。
+# 在翻译验证完成后，请在拉取请求中删除这些行。
+
+favicon=CatalystUI 网站图标。
+logo=CatalystUI 标志。
+copyright=© 2026 CatalystUI LLC — 保留所有权利。
+
+model=模型
+specifications=规范
+implementations=实现
+
+markdown_page_navigation=页面导航
+markdown_previous_page=上一页
+markdown_next_page=下一页
+markdown_toc_aria_label=目录
+markdown_toc_label=本页内容
+markdown_toc_title=目录
+markdown_toc_empty=本页没有章节。
+
+sponsor_title=支持我们的工作？
+sponsor_description=CatalystUI 因像你这样的人而存在。所有收入都会用于支持我们的开源计划。
+sponsor_dismiss_message=知道了！我们暂时不会再显示此内容。
+sponsor_github_desc=支持开发用于人机交互的跨平台模型和 UI 框架，将原始数据转化为快速、一致且面向未来的体验。
+
+trust=信任
+clarity=清晰
+design=设计
+
+index_metadata_title=CatalystUI
+index_metadata_description=CatalystUI 是一个通用的跨平台模型，通过将数据转化为直观体验来定义人与计算机的交互方式，从而支持快速、灵活、高性能的应用程序。
+index_metadata_keywords=catalyst,ui,框架,模型,规范,实现,用户,界面,交互,体验,设计,开发,网页,桌面,移动,通用,跨平台
+index_splash_title=计算机与人之间的通用翻译器。
+index_vision_title=我们的愿景
+index_vision_subtitle=建立一个通用模型，用于定义人与信息系统之间的关系，为构建可靠的技术奠定基础。
+index_mission_title=我们的使命
+index_mission_subtitle=定义并实现统一的交互基础，使开发者能够构建植根于信息自然流动之上的直观、高性能系统。
+index_values_title=我们的价值观
+index_values_subtitle=致力于发掘能够降低复杂性、保留意义并指导我们所创造系统的原则。
+index_cta_title=揭示计算体验背后的真相。
+index_cta_subtitle=开始吧。
+
+aria_navigate_menu=切换导航菜单。
+aria_navigate_home=导航到主页。
+aria_navigate_model=导航到网站的模型部分。
+aria_navigate_specification=导航到网站的规范部分。
+aria_navigate_implementations=导航到网站的实现部分。
+aria_navigate_discord=使用 CatalystUI 服务器邀请代码导航到 discord.com。
+aria_navigate_github=使用 CatalystUI 组织 URL 导航到 github.com。
+aria_coming_soon=此功能即将推出——请稍后再来查看
+aria_markdown_toc_toggle=切换目录。
+aria_sponsor_minimize=将赞助弹窗隐藏一天。
+aria_sponsor_close=将赞助弹窗隐藏一段时间。
+aria_sponsor_previous=显示上一个赞助方。
+aria_sponsor_next=显示下一个赞助方。
