@@ -9,6 +9,19 @@ model=Model
 specifications=Specifications
 implementations=Implementations
 
+markdown_page_navigation=Page navigation
+markdown_previous_page=Previous
+markdown_next_page=Next
+markdown_toc_aria_label=Table of contents
+markdown_toc_label=On this page
+markdown_toc_title=Contents
+markdown_toc_empty=No sections on this page.
+
+sponsor_title=Support our work?
+sponsor_description=CatalystUI exists because of people like you. Any and all proceeds go to supporting our open-source initiatives.
+sponsor_dismiss_message=Got it! We won''t show this again for a while.
+sponsor_github_desc=Support the development of a cross-platform model and UI framework for human-computer interaction that transforms raw data into fast, consistent, and future-proof experiences.
+
 trust=Trust
 clarity=Clarity
 design=Design
@@ -34,3 +47,8 @@ aria_navigate_implementations=Navigates to the Implementations section of the si
 aria_navigate_discord=Navigates to discord.com using the CatalystUI server invite code.
 aria_navigate_github=Navigates to github.com using the CatalystUI organisation URL.
 aria_coming_soon=This feature is coming soon — check back later!
+aria_markdown_toc_toggle=Toggles the table of contents.
+aria_sponsor_minimize=Hides the sponsor popup for one day.
+aria_sponsor_close=Hides the sponsor popup for a while.
+aria_sponsor_previous=Shows the previous sponsor.
+aria_sponsor_next=Shows the next sponsor.

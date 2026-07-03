@@ -9,6 +9,19 @@ model=Modell
 specifications=Spezifikationen
 implementations=Implementierungen
 
+markdown_page_navigation=Seitennavigation
+markdown_previous_page=Vorherige
+markdown_next_page=Nächste
+markdown_toc_aria_label=Inhaltsverzeichnis
+markdown_toc_label=Auf dieser Seite
+markdown_toc_title=Inhalt
+markdown_toc_empty=Keine Abschnitte auf dieser Seite.
+
+sponsor_title=Unsere Arbeit unterstützen?
+sponsor_description=CatalystUI existiert dank Menschen wie Ihnen. Sämtliche Erlöse fließen in die Unterstützung unserer Open-Source-Initiativen.
+sponsor_dismiss_message=Verstanden! Wir zeigen dies für eine Weile nicht mehr an.
+sponsor_github_desc=Unterstützen Sie die Entwicklung eines plattformübergreifenden Modells und UI-Frameworks für Mensch-Computer-Interaktion, das Rohdaten in schnelle, konsistente und zukunftssichere Erlebnisse verwandelt.
+
 trust=Vertrauen
 clarity=Klarheit
 design=Design
@@ -34,3 +47,8 @@ aria_navigate_implementations=Navigiert zum Implementierungsbereich der Website.
 aria_navigate_discord=Navigiert zu discord.com unter Verwendung des CatalystUI-Servereinladungscodes.
 aria_navigate_github=Navigiert zu github.com unter Verwendung der URL der CatalystUI-Organisation.
 aria_coming_soon=Diese Funktion kommt bald — schau später wieder vorbei!
+aria_markdown_toc_toggle=Schaltet das Inhaltsverzeichnis um.
+aria_sponsor_minimize=Blendet das Sponsor-Popup für einen Tag aus.
+aria_sponsor_close=Blendet das Sponsor-Popup für eine Weile aus.
+aria_sponsor_previous=Zeigt den vorherigen Sponsor.
+aria_sponsor_next=Zeigt den nächsten Sponsor.

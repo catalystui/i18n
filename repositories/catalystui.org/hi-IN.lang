@@ -9,6 +9,19 @@ model=मॉडल
 specifications=विनिर्देश
 implementations=कार्यान्वयन
 
+markdown_page_navigation=पृष्ठ नेविगेशन
+markdown_previous_page=पिछला
+markdown_next_page=अगला
+markdown_toc_aria_label=विषय-सूची
+markdown_toc_label=इस पृष्ठ पर
+markdown_toc_title=सामग्री
+markdown_toc_empty=इस पृष्ठ पर कोई अनुभाग नहीं है।
+
+sponsor_title=क्या आप हमारे काम का समर्थन करेंगे?
+sponsor_description=CatalystUI आप जैसे लोगों की वजह से मौजूद है। सारी आय हमारी ओपन-सोर्स पहलों का समर्थन करने में जाती है।
+sponsor_dismiss_message=समझ गया! हम इसे कुछ समय तक फिर नहीं दिखाएँगे।
+sponsor_github_desc=मानव-कंप्यूटर अंतःक्रिया के लिए एक क्रॉस-प्लेटफ़ॉर्म मॉडल और UI फ्रेमवर्क के विकास का समर्थन करें, जो कच्चे डेटा को तेज़, सुसंगत और भविष्य-तैयार अनुभवों में बदलता है।
+
 trust=विश्वास
 clarity=स्पष्टता
 design=डिज़ाइन
@@ -34,3 +47,8 @@ aria_navigate_implementations=साइट के कार्यान्वय
 aria_navigate_discord=CatalystUI सर्वर आमंत्रण कोड का उपयोग करके discord.com पर जाता है।
 aria_navigate_github=CatalystUI संगठन URL का उपयोग करके github.com पर जाता है।
 aria_coming_soon=यह सुविधा जल्द आ रही है — बाद में फिर से देखें!
+aria_markdown_toc_toggle=विषय-सूची को टॉगल करता है।
+aria_sponsor_minimize=स्पॉन्सर पॉपअप को एक दिन के लिए छिपाता है।
+aria_sponsor_close=स्पॉन्सर पॉपअप को कुछ समय के लिए छिपाता है।
+aria_sponsor_previous=पिछला स्पॉन्सर दिखाता है।
+aria_sponsor_next=अगला स्पॉन्सर दिखाता है।

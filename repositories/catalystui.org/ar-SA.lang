@@ -9,6 +9,19 @@ model=النموذج
 specifications=المواصفات
 implementations=التنفيذات
 
+markdown_page_navigation=التنقل في الصفحة
+markdown_previous_page=السابق
+markdown_next_page=التالي
+markdown_toc_aria_label=جدول المحتويات
+markdown_toc_label=في هذه الصفحة
+markdown_toc_title=المحتويات
+markdown_toc_empty=لا توجد أقسام في هذه الصفحة.
+
+sponsor_title=هل تدعم عملنا؟
+sponsor_description=يوجد CatalystUI بفضل أشخاص مثلك. تذهب كل العائدات لدعم مبادراتنا مفتوحة المصدر.
+sponsor_dismiss_message=حسنًا! لن نعرض هذا مرة أخرى لفترة.
+sponsor_github_desc=ادعم تطوير نموذج وإطار واجهة مستخدم عابرين للمنصات للتفاعل بين الإنسان والحاسوب، يحوّلان البيانات الخام إلى تجارب سريعة ومتسقة وجاهزة للمستقبل.
+
 trust=الثقة
 clarity=الوضوح
 design=التصميم
@@ -34,3 +47,8 @@ aria_navigate_implementations=ينتقل إلى قسم التنفيذات في �
 aria_navigate_discord=ينتقل إلى discord.com باستخدام رمز دعوة خادم CatalystUI.
 aria_navigate_github=ينتقل إلى github.com باستخدام رابط مؤسسة CatalystUI.
 aria_coming_soon=هذه الميزة قادمة قريبًا — عُد لاحقًا للاطلاع عليها!
+aria_markdown_toc_toggle=يبدّل جدول المحتويات.
+aria_sponsor_minimize=يخفي نافذة الرعاية المنبثقة ليوم واحد.
+aria_sponsor_close=يخفي نافذة الرعاية المنبثقة لفترة.
+aria_sponsor_previous=يعرض الراعي السابق.
+aria_sponsor_next=يعرض الراعي التالي.

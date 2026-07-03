@@ -9,6 +9,19 @@ model=Modèle
 specifications=Spécifications
 implementations=Implémentations
 
+markdown_page_navigation=Navigation de page
+markdown_previous_page=Précédent
+markdown_next_page=Suivant
+markdown_toc_aria_label=Table des matières
+markdown_toc_label=Sur cette page
+markdown_toc_title=Contenu
+markdown_toc_empty=Aucune section sur cette page.
+
+sponsor_title=Soutenir notre travail ?
+sponsor_description=CatalystUI existe grâce à des personnes comme vous. Tous les revenus servent à soutenir nos initiatives open source.
+sponsor_dismiss_message=Compris ! Nous ne l’afficherons plus pendant un moment.
+sponsor_github_desc=Soutenez le développement d’un modèle multiplateforme et d’un framework d’interface utilisateur pour l’interaction humain-ordinateur, qui transforme les données brutes en expériences rapides, cohérentes et prêtes pour l’avenir.
+
 trust=Confiance
 clarity=Clarté
 design=Conception
@@ -34,3 +47,8 @@ aria_navigate_implementations=Navigue vers la section Implémentations du site.
 aria_navigate_discord=Navigue vers discord.com en utilisant le code d’invitation du serveur CatalystUI.
 aria_navigate_github=Navigue vers github.com en utilisant l’URL de l’organisation CatalystUI.
 aria_coming_soon=Cette fonctionnalité arrive bientôt — revenez plus tard !
+aria_markdown_toc_toggle=Active ou désactive la table des matières.
+aria_sponsor_minimize=Masque la fenêtre de parrainage pendant une journée.
+aria_sponsor_close=Masque la fenêtre de parrainage pendant un moment.
+aria_sponsor_previous=Affiche le sponsor précédent.
+aria_sponsor_next=Affiche le sponsor suivant.
