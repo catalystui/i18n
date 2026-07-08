@@ -4,6 +4,7 @@
 become-verified=CatalystUI認証を受ける
 specifications=仕様
 verification-programs=検証プログラム
+verification-assets=検証アセット
 languages=言語
 internationalization=国際化
 accessibility=アクセシビリティ
