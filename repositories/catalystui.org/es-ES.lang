@@ -1,55 +1,49 @@
 # Esta traducción fue generada por ChatGPT y debe ser revisada por un traductor humano.
-# Elimina estas líneas en una solicitud de extracción después de que la traducción haya sido verificada.
+# Elimina estas líneas en una pull request después de que se haya verificado la traducción.
 
 favicon=El favicon de CatalystUI.
 logo=El logotipo de CatalystUI.
 copyright=© 2026 CatalystUI LLC — Todos los derechos reservados.
-
 model=Modelo
 specifications=Especificaciones
 verification-programs=Programas de verificación
 implementations=Implementaciones
-
-markdown_page_navigation=Navegación de página
+markdown_page_navigation=Navegación de la página
 markdown_previous_page=Anterior
 markdown_next_page=Siguiente
 markdown_toc_aria_label=Tabla de contenidos
 markdown_toc_label=En esta página
-markdown_toc_title=Contenido
+markdown_toc_title=Contenidos
 markdown_toc_empty=No hay secciones en esta página.
-
-sponsor_title=¿Apoyas nuestro trabajo?
+sponsor_title=¿Apoyar nuestro trabajo?
 sponsor_description=CatalystUI existe gracias a personas como tú. Todos los ingresos se destinan a apoyar nuestras iniciativas de código abierto.
 sponsor_dismiss_message=¡Entendido! No volveremos a mostrar esto durante un tiempo.
-sponsor_github_desc=Apoya el desarrollo de un modelo multiplataforma y un framework de interfaz de usuario para la interacción persona-computadora que transforma datos sin procesar en experiencias rápidas, coherentes y preparadas para el futuro.
-
+sponsor_github_desc=Apoya el desarrollo de un modelo y framework de interfaz de usuario multiplataforma para la interacción humano-computadora que transforma datos sin procesar en experiencias rápidas, coherentes y preparadas para el futuro.
 trust=Confianza
 clarity=Claridad
 design=Diseño
-
 index_metadata_title=CatalystUI
-index_metadata_description=CatalystUI es un modelo universal y multiplataforma que define cómo las personas interactúan con los ordenadores al transformar datos en experiencias intuitivas, lo que permite aplicaciones rápidas, flexibles y de alto rendimiento.
-index_metadata_keywords=catalyst,ui,marco,modelo,especificación,implementación,usuario,interfaz,interacción,experiencia,diseño,desarrollo,web,escritorio,móvil,universal,multiplataforma
+index_metadata_description=CatalystUI es un modelo universal y multiplataforma que define cómo las personas interactúan con los ordenadores transformando los datos en experiencias intuitivas, lo que permite aplicaciones rápidas, flexibles y de alto rendimiento.
+index_metadata_keywords=catalyst,ui,framework,modelo,especificación,implementación,usuario,interfaz,interacción,experiencia,diseño,desarrollo,web,escritorio,móvil,universal,multiplataforma
 index_splash_title=El traductor universal entre ordenadores y personas.
 index_vision_title=Nuestra visión
 index_vision_subtitle=Establecer un modelo universal que defina la relación entre las personas y los sistemas de información, proporcionando una base para crear tecnología fiable.
 index_mission_title=Nuestra misión
-index_mission_subtitle=Definir y hacer realidad una base unificada para la interacción, permitiendo a los desarrolladores crear sistemas intuitivos y de alto rendimiento, fundamentados en el flujo natural de la información.
+index_mission_subtitle=Definir y hacer realidad una base unificada para la interacción, permitiendo a los desarrolladores crear sistemas intuitivos y de alto rendimiento basados en el flujo natural de la información.
 index_values_title=Nuestros valores
-index_values_subtitle=Buscando descubrir principios que reduzcan la complejidad, preserven el significado y guíen los sistemas que creamos.
+index_values_subtitle=Buscamos descubrir principios que reduzcan la complejidad, preserven el significado y guíen los sistemas que creamos.
 index_cta_title=Descubriendo la verdad detrás de la experiencia computacional.
-index_cta_subtitle=Comencemos.
-
+index_cta_subtitle=Empecemos.
 aria_navigate_menu=Alterna el menú de navegación.
-aria_navigate_home=Navega a la página principal.
+aria_navigate_home=Navega a la página de inicio.
 aria_navigate_model=Navega a la sección Modelo del sitio.
-aria_navigate_specification=Navega a la sección Especificación del sitio.
+aria_navigate_specification=Navega a la sección Especificaciones del sitio.
 aria_navigate_implementations=Navega a la sección Implementaciones del sitio.
 aria_navigate_discord=Navega a discord.com usando el código de invitación del servidor de CatalystUI.
 aria_navigate_github=Navega a github.com usando la URL de la organización CatalystUI.
-aria_coming_soon=Esta función estará disponible próximamente — ¡vuelve más tarde!
+aria_coming_soon=Esta función llegará pronto — ¡vuelve más tarde!
 aria_markdown_toc_toggle=Alterna la tabla de contenidos.
-aria_sponsor_minimize=Oculta la ventana de patrocinio durante un día.
-aria_sponsor_close=Oculta la ventana de patrocinio durante un tiempo.
+aria_sponsor_minimize=Oculta la ventana emergente de patrocinio durante un día.
+aria_sponsor_close=Oculta la ventana emergente de patrocinio durante un tiempo.
 aria_sponsor_previous=Muestra el patrocinador anterior.
-aria_sponsor_next=Muestra el patrocinador siguiente.
+aria_sponsor_next=Muestra el siguiente patrocinador.

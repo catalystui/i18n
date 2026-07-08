@@ -1,0 +1,11 @@
+# 이 번역은 ChatGPT가 생성했으며 사람 번역가의 검토가 필요합니다.
+# 번역이 확인된 후 pull request에서 이 줄들을 제거하세요.
+
+model=CatalystUI 모델
+terminology=1. 용어
+summary=2. 요약
+reference=3. 참조
+domains=4. 도메인
+stack=5. 스택
+connectors=6. 커넥터
+interactions=7. 상호작용

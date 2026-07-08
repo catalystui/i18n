@@ -1,5 +1,9 @@
 # 此翻译由 ChatGPT 生成，应由人工译者审核。
-# 翻译验证后，请在拉取请求中删除这些行。
+# 翻译验证后，请在 pull request 中删除这些行。
 
+become-verified=成为 CatalystUI Verified
 specifications=规范
 verification-programs=验证计划
+languages=语言
+internationalization=国际化
+accessibility=无障碍

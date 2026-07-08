@@ -1,52 +1,46 @@
-# Cette traduction a été générée par ChatGPT et doit être vérifiée par un traducteur humain.
-# Supprimez ces lignes dans une pull request après vérification de la traduction.
+# Cette traduction a été générée par ChatGPT et doit être relue par un traducteur humain.
+# Supprimez ces lignes dans une pull request une fois la traduction vérifiée.
 
 favicon=Le favicon de CatalystUI.
 logo=Le logo de CatalystUI.
 copyright=© 2026 CatalystUI LLC — Tous droits réservés.
-
 model=Modèle
 specifications=Spécifications
 verification-programs=Programmes de vérification
 implementations=Implémentations
-
-markdown_page_navigation=Navigation de page
+markdown_page_navigation=Navigation de la page
 markdown_previous_page=Précédent
 markdown_next_page=Suivant
 markdown_toc_aria_label=Table des matières
 markdown_toc_label=Sur cette page
 markdown_toc_title=Contenu
 markdown_toc_empty=Aucune section sur cette page.
-
 sponsor_title=Soutenir notre travail ?
 sponsor_description=CatalystUI existe grâce à des personnes comme vous. Tous les revenus servent à soutenir nos initiatives open source.
-sponsor_dismiss_message=Compris ! Nous ne l’afficherons plus pendant un moment.
-sponsor_github_desc=Soutenez le développement d’un modèle multiplateforme et d’un framework d’interface utilisateur pour l’interaction humain-ordinateur, qui transforme les données brutes en expériences rapides, cohérentes et prêtes pour l’avenir.
-
+sponsor_dismiss_message=Compris ! Nous ne réafficherons pas ce message pendant un moment.
+sponsor_github_desc=Soutenez le développement d’un modèle et d’un framework d’interface utilisateur multiplateforme pour l’interaction humain-ordinateur, qui transforme les données brutes en expériences rapides, cohérentes et prêtes pour l’avenir.
 trust=Confiance
 clarity=Clarté
 design=Conception
-
 index_metadata_title=CatalystUI
-index_metadata_description=CatalystUI est un modèle universel multiplateforme qui définit la manière dont les personnes interagissent avec les ordinateurs en transformant les données en expériences intuitives, permettant ainsi des applications rapides, flexibles et hautes performances.
-index_metadata_keywords=catalyst,ui,cadre,modèle,spécification,implémentation,utilisateur,interface,interaction,expérience,conception,développement,web,bureau,mobile,universel,multiplateforme
+index_metadata_description=CatalystUI est un modèle universel et multiplateforme qui définit la manière dont les personnes interagissent avec les ordinateurs en transformant les données en expériences intuitives, permettant des applications rapides, flexibles et hautes performances.
+index_metadata_keywords=catalyst,ui,framework,modèle,spécification,implémentation,utilisateur,interface,interaction,expérience,conception,développement,web,bureau,mobile,universel,multiplateforme
 index_splash_title=Le traducteur universel entre les ordinateurs et les personnes.
 index_vision_title=Notre vision
-index_vision_subtitle=Établir un modèle universel qui définit la relation entre les personnes et les systèmes d’information, en fournissant une base pour construire une technologie fiable.
+index_vision_subtitle=Établir un modèle universel qui définit la relation entre les personnes et les systèmes d’information, offrant une base pour construire une technologie fiable.
 index_mission_title=Notre mission
-index_mission_subtitle=Définir et concrétiser une base unifiée pour l’interaction, permettant aux développeurs de construire des systèmes intuitifs et hautes performances fondés sur le flux naturel de l’information.
+index_mission_subtitle=Définir et réaliser une base unifiée pour l’interaction, afin de permettre aux développeurs de créer des systèmes intuitifs et hautes performances fondés sur le flux naturel de l’information.
 index_values_title=Nos valeurs
 index_values_subtitle=Chercher à découvrir des principes qui réduisent la complexité, préservent le sens et guident les systèmes que nous créons.
-index_cta_title=Révéler la vérité derrière l’expérience computationnelle.
+index_cta_title=Découvrir la vérité derrière l’expérience informatique.
 index_cta_subtitle=Commençons.
-
 aria_navigate_menu=Active ou désactive le menu de navigation.
 aria_navigate_home=Navigue vers la page d’accueil.
 aria_navigate_model=Navigue vers la section Modèle du site.
-aria_navigate_specification=Navigue vers la section Spécification du site.
+aria_navigate_specification=Navigue vers la section Spécifications du site.
 aria_navigate_implementations=Navigue vers la section Implémentations du site.
-aria_navigate_discord=Navigue vers discord.com en utilisant le code d’invitation du serveur CatalystUI.
-aria_navigate_github=Navigue vers github.com en utilisant l’URL de l’organisation CatalystUI.
+aria_navigate_discord=Navigue vers discord.com avec le code d’invitation du serveur CatalystUI.
+aria_navigate_github=Navigue vers github.com avec l’URL de l’organisation CatalystUI.
 aria_coming_soon=Cette fonctionnalité arrive bientôt — revenez plus tard !
 aria_markdown_toc_toggle=Active ou désactive la table des matières.
 aria_sponsor_minimize=Masque la fenêtre de parrainage pendant une journée.

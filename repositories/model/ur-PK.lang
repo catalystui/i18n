@@ -1,0 +1,11 @@
+# یہ ترجمہ ChatGPT نے تیار کیا ہے اور کسی انسانی مترجم کو اس کا جائزہ لینا چاہیے۔
+# ترجمہ تصدیق ہونے کے بعد pull request میں یہ سطریں ہٹا دیں۔
+
+model=CatalystUI ماڈل
+terminology=1. اصطلاحات
+summary=2. خلاصہ
+reference=3. حوالہ
+domains=4. ڈومینز
+stack=5. اسٹیک
+connectors=6. کنیکٹرز
+interactions=7. تعاملات

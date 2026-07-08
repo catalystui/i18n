@@ -4,12 +4,10 @@
 favicon=The CatalystUI favicon.
 logo=The CatalystUI logo.
 copyright=© 2026 CatalystUI LLC — All rights reserved.
-
 model=Model
 specifications=Specifications
 verification-programs=Verification Programmes
 implementations=Implementations
-
 markdown_page_navigation=Page navigation
 markdown_previous_page=Previous
 markdown_next_page=Next
@@ -17,16 +15,13 @@ markdown_toc_aria_label=Table of contents
 markdown_toc_label=On this page
 markdown_toc_title=Contents
 markdown_toc_empty=No sections on this page.
-
 sponsor_title=Support our work?
-sponsor_description=CatalystUI exists because of people like you. Any and all proceeds go to supporting our open-source initiatives.
+sponsor_description=CatalystUI exists because of people like you. Any and all proceeds go towards supporting our open-source initiatives.
 sponsor_dismiss_message=Got it! We won''t show this again for a while.
 sponsor_github_desc=Support the development of a cross-platform model and UI framework for human-computer interaction that transforms raw data into fast, consistent, and future-proof experiences.
-
 trust=Trust
 clarity=Clarity
 design=Design
-
 index_metadata_title=CatalystUI
 index_metadata_description=CatalystUI is a universal, cross-platform model that defines how people interact with computers by transforming data into intuitive experiences—enabling fast, flexible, high-performance applications.
 index_metadata_keywords=catalyst,ui,framework,model,specification,implementation,user,interface,interaction,experience,design,development,web,desktop,mobile,universal,cross-platform
@@ -39,7 +34,6 @@ index_values_title=Our Values
 index_values_subtitle=Seeking to uncover principles that reduce complexity, preserve meaning, and guide the systems we create.
 index_cta_title=Uncovering the truth behind computational experience.
 index_cta_subtitle=Let''s get started.
-
 aria_navigate_menu=Toggles the navigation menu.
 aria_navigate_home=Navigates to the homepage.
 aria_navigate_model=Navigates to the Model section of the site.

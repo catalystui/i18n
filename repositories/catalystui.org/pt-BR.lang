@@ -1,55 +1,49 @@
 # Esta tradução foi gerada pelo ChatGPT e deve ser revisada por um tradutor humano.
-# Remova estas linhas em um pull request após a tradução ter sido verificada.
+# Remova estas linhas em um pull request depois que a tradução for verificada.
 
 favicon=O favicon do CatalystUI.
 logo=O logotipo do CatalystUI.
 copyright=© 2026 CatalystUI LLC — Todos os direitos reservados.
-
 model=Modelo
 specifications=Especificações
-verification-programs=Programas de verificação
+verification-programs=Programas de Verificação
 implementations=Implementações
-
 markdown_page_navigation=Navegação da página
 markdown_previous_page=Anterior
-markdown_next_page=Próxima
+markdown_next_page=Próximo
 markdown_toc_aria_label=Sumário
 markdown_toc_label=Nesta página
 markdown_toc_title=Conteúdo
-markdown_toc_empty=Nenhuma seção nesta página.
-
+markdown_toc_empty=Não há seções nesta página.
 sponsor_title=Apoiar nosso trabalho?
 sponsor_description=O CatalystUI existe por causa de pessoas como você. Toda a receita é destinada ao apoio das nossas iniciativas de código aberto.
-sponsor_dismiss_message=Entendido! Não mostraremos isso novamente por um tempo.
-sponsor_github_desc=Apoie o desenvolvimento de um modelo multiplataforma e de um framework de interface de usuário para interação humano-computador que transforma dados brutos em experiências rápidas, consistentes e preparadas para o futuro.
-
+sponsor_dismiss_message=Entendido! Não mostraremos isso de novo por um tempo.
+sponsor_github_desc=Apoie o desenvolvimento de um modelo e framework de UI multiplataforma para interação humano-computador que transforma dados brutos em experiências rápidas, consistentes e preparadas para o futuro.
 trust=Confiança
 clarity=Clareza
 design=Design
-
 index_metadata_title=CatalystUI
-index_metadata_description=CatalystUI é um modelo universal e multiplataforma que define como as pessoas interagem com computadores ao transformar dados em experiências intuitivas, possibilitando aplicações rápidas, flexíveis e de alto desempenho.
+index_metadata_description=CatalystUI é um modelo universal e multiplataforma que define como as pessoas interagem com computadores ao transformar dados em experiências intuitivas, permitindo aplicações rápidas, flexíveis e de alto desempenho.
 index_metadata_keywords=catalyst,ui,framework,modelo,especificação,implementação,usuário,interface,interação,experiência,design,desenvolvimento,web,desktop,móvel,universal,multiplataforma
 index_splash_title=O tradutor universal entre computadores e pessoas.
 index_vision_title=Nossa Visão
 index_vision_subtitle=Estabelecer um modelo universal que defina a relação entre pessoas e sistemas de informação, fornecendo uma base para construir tecnologia confiável.
 index_mission_title=Nossa Missão
-index_mission_subtitle=Definir e concretizar uma base unificada para a interação, permitindo que desenvolvedores construam sistemas intuitivos e de alto desempenho fundamentados no fluxo natural da informação.
+index_mission_subtitle=Definir e realizar uma base unificada para interação, permitindo que desenvolvedores criem sistemas intuitivos e de alto desempenho fundamentados no fluxo natural da informação.
 index_values_title=Nossos Valores
-index_values_subtitle=Buscando descobrir princípios que reduzam a complexidade, preservem o significado e orientem os sistemas que criamos.
+index_values_subtitle=Buscamos descobrir princípios que reduzam a complexidade, preservem o significado e guiem os sistemas que criamos.
 index_cta_title=Revelando a verdade por trás da experiência computacional.
 index_cta_subtitle=Vamos começar.
-
 aria_navigate_menu=Alterna o menu de navegação.
 aria_navigate_home=Navega para a página inicial.
 aria_navigate_model=Navega para a seção Modelo do site.
-aria_navigate_specification=Navega para a seção Especificação do site.
+aria_navigate_specification=Navega para a seção Especificações do site.
 aria_navigate_implementations=Navega para a seção Implementações do site.
 aria_navigate_discord=Navega para discord.com usando o código de convite do servidor CatalystUI.
 aria_navigate_github=Navega para github.com usando a URL da organização CatalystUI.
 aria_coming_soon=Este recurso estará disponível em breve — volte mais tarde!
 aria_markdown_toc_toggle=Alterna o sumário.
-aria_sponsor_minimize=Oculta o pop-up de patrocínio por um dia.
-aria_sponsor_close=Oculta o pop-up de patrocínio por um tempo.
+aria_sponsor_minimize=Oculta o popup de patrocinador por um dia.
+aria_sponsor_close=Oculta o popup de patrocinador por um tempo.
 aria_sponsor_previous=Mostra o patrocinador anterior.
 aria_sponsor_next=Mostra o próximo patrocinador.

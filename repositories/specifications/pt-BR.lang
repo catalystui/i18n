@@ -1,5 +1,9 @@
 # Esta tradução foi gerada pelo ChatGPT e deve ser revisada por um tradutor humano.
-# Remova estas linhas em uma solicitação de pull depois que a tradução for verificada.
+# Remova estas linhas em um pull request depois que a tradução for verificada.
 
+become-verified=Tornar-se verificado pelo CatalystUI
 specifications=Especificações
-verification-programs=Programas de verificação
+verification-programs=Programas de Verificação
+languages=Idiomas
+internationalization=Internacionalização
+accessibility=Acessibilidade

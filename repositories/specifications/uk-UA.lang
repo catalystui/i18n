@@ -1,5 +1,9 @@
-# Цей переклад створено ChatGPT і має бути перевірений людиною-перекладачем.
+# Цей переклад було створено ChatGPT, і його має перевірити перекладач-людина.
 # Видаліть ці рядки в pull request після перевірки перекладу.
 
+become-verified=Отримання перевірки CatalystUI
 specifications=Специфікації
-verification-programs=Програми верифікації
+verification-programs=Програми перевірки
+languages=Мови
+internationalization=Інтернаціоналізація
+accessibility=Доступність

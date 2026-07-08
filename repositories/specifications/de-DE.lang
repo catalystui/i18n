@@ -1,5 +1,9 @@
-# Diese Übersetzung wurde von ChatGPT erstellt und sollte von einem menschlichen Übersetzer überprüft werden.
-# Entferne diese Zeilen in einem Pull Request, nachdem die Übersetzung überprüft wurde.
+# Diese Übersetzung wurde von ChatGPT erstellt und sollte von einem menschlichen Übersetzer geprüft werden.
+# Entferne diese Zeilen in einem Pull Request, nachdem die Übersetzung verifiziert wurde.
 
+become-verified=CatalystUI-verifiziert werden
 specifications=Spezifikationen
 verification-programs=Verifizierungsprogramme
+languages=Sprachen
+internationalization=Internationalisierung
+accessibility=Barrierefreiheit
